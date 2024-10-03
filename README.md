@@ -1,5 +1,4 @@
-[![Student at Daffodil International University](https://media.licdn.com/dms/image/v2/D5616AQH-vUTsUOYMWA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1705858536040?e=1732752000&v=beta&t=Aqt5-k_iDBWoJPi2tE-Fy9mAyDrJCCnTMPunGv1O36s)
-](https://media.licdn.com/dms/image/v2/D5616AQEt-5QmZg98qQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727945812920?e=1733356800&v=beta&t=6WxB9PKunFqcy2L4dPdAvfplLTn4Zi9o5RNL1LAzb-0)
+
 ### Hi there 👋, My Name is Abdullah Al Afjal
 #### Student at Daffodil International University
 
