@@ -18,6 +18,4 @@ Skills: HTML/CSS/Python/Java/C++/C
 - 👯 I’m looking to collaborate on Github 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/abdullahalafjal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abdullah-al-afjal//)  
-
 
