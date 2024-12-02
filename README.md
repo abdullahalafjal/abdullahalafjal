@@ -13,8 +13,8 @@ Interests: Software development, UI/UX design, and problem-solving through algor
 
 Skills: HTML/CSS/Python/Java/C++/C
 
-- 🔭 I’m currently working on Android Development  
-- 🌱 I’m currently learning Web Development 
+- 🔭 I’m currently working on QuickDoctor
+- 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on GitHub 
 - 👯 Contact Me: abdullahalafjal31@gmail.com
 
