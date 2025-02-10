@@ -1,5 +1,3 @@
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/v2/D5616AQEt-5QmZg98qQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727945812920?e=1738800000&v=beta&t=JfqpyYQ3TaiUq_MPcUjMFGfjbAqjdsis3wL5skW47Jw)
-
 ## Hi there 👋, I'm Abdullah Al Afjal
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
