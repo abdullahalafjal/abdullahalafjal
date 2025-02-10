@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Abdullah Al Afjal
+## Hi there 👋, I'm Afjal Hossin
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 👋Hi, I'm a Computer Science and Engineering student with a passion for building efficient, scalable, and user-friendly software solutions. My technical skills span across various programming languages and frameworks, and I am continuously learning to expand my expertise.
